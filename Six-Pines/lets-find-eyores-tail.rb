@@ -1,8 +1,8 @@
 require 'pry'
-kanga_roo_address = '' # Your changes here!
-piglet_address = ''
-rabbit_address = ''
-pooh_address = ''
+kanga_roo_address = '../kanga-and-roos-house/kanga.txt' # Your changes here!
+piglet_address = 'piglets-house/piglet.txt'
+rabbit_address = '../rabbits-meadow/rabbits-house/rabbit.txt'
+pooh_address = '.heffalump-trap/poohs-house/pooh-bear.txt'
 
 # Please do not change any code past this point!
 
